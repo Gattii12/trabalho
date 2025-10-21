@@ -25,8 +25,8 @@ validateEmail(emailInput);
 });
 
 emailInput. addEventListener('keypress', function() {
-    input.setCustomValidity(''); // Remove a mensagem de erro do navegador
-    
+    emailInput.setCustomValidity(''); // Remove a mensagem de erro do navegador
+
 });
 
 emailInput. addEventListener('mouseover', function() {

@@ -30,7 +30,7 @@ emailInput. addEventListener('keypress', function() {
 
 emailInput. addEventListener('mouseover', function() {
     alert('Você passou o mouse sobre o campo email')
-})
+});
 
 // 3. Adiciona o ouvinte de evento 'submit' ao formulário para verificação final
 
